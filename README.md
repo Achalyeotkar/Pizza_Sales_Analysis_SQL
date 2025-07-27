@@ -117,7 +117,7 @@ Power BI provides an interactive and drill-down experience for business users to
 
 If you’d like to collaborate or ask any questions:
 
-- **GitHub**: [YourGitHub](https://github.com/)
-- **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/yourname)
+- **GitHub**: [YourGitHub](https://github.com/Achalyeotkar)
+- **LinkedIn**: [YourLinkedIn](https://www.linkedin.com/in/achal-yeotkar-90204a220/)
 
 ---
